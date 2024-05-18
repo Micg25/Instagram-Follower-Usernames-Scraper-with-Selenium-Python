@@ -5,3 +5,5 @@ And you did it, once you'll start the code this will start fetching usernames fr
 
 
 Packages needed: pip install selenium
+
+PS. Make sure to put your driver.exe in the same path of the code, or else to specify the path of the driver, or the selenium webdriver is not gonna work.
