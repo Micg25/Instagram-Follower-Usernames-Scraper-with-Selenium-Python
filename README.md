@@ -4,6 +4,9 @@ And you did it, once you'll start the code this will start fetching usernames fr
 
 
 Packages needed: pip install selenium
+browsermob-proxy file: https://bmp.lightbody.net/
+mozilla geckodriver for selenium: https://github.com/mozilla/geckodriver/releases
+Chrome driver: https://developer.chrome.com/docs/chromedriver/downloads?hl=it
 
 PS. Make sure to put your driver.exe in the same path of the code, or else to specify the driver path, or else the selenium webdriver is not gonna work.
 
